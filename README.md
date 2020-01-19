@@ -18,4 +18,5 @@
 [비전공자로 개발자 커리어를 시작하는 사람들에게](https://www.youtube.com/watch?v=5bIzMeC6Djk) - Written by [승지니어](https://www.youtube.com/channel/UCW4ixpFivk6eJl8b5bFOLkg)님, 2019.03.02  
 [체대 출신 개발자의 2018년 회고](https://ryan-han.com/post/memoirs/memoirs2018/) - Written by [Jeongsu Han](https://github.com/integerous)님, 2018.12.16    
 [문과생의 데이터 사이언스 도전기](https://brunch.co.kr/@carmenlee/46) - Written by [Carmen](https://brunch.co.kr/@carmenlee#info)님, 2017.12.26    
-[OKKY 미니세미나 <비전공 학원출신 SI개발자, 유명스타트업 들어간.ssul> 참석 후기](https://jojoldu.tistory.com/247) Written by 창천향로님, 2017.11.17
+[OKKY 미니세미나 <비전공 학원출신 SI개발자, 유명스타트업 들어간.ssul> 참석 후기](https://jojoldu.tistory.com/247) Written by 창천향로님, 2017.11.17    
+[6개월간의 TIL 회고 (꾸준히 하면 좋은 일이 생긴다)](https://wayhome25.github.io/til/2017/08/14/TIL-for-6-months/) Written by 초보몽키님, 2017.08.14
