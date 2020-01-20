@@ -16,7 +16,11 @@
 ### 3. 내용 :woman_technologist: :man_technologist:
 [해외 취업 - 신입 웹 개발자의 싱가포르 상륙기](https://sujinlee.me/how-i-landed-my-dream-job-in-sg/) - Written by [Sujin Lee](https://github.com/sujinleeme)님, 2019.03.24    
 [비전공자로 개발자 커리어를 시작하는 사람들에게](https://www.youtube.com/watch?v=5bIzMeC6Djk) - Written by [승지니어](https://www.youtube.com/channel/UCW4ixpFivk6eJl8b5bFOLkg)님, 2019.03.02  
-[체대 출신 개발자의 2018년 회고](https://ryan-han.com/post/memoirs/memoirs2018/) - Written by [Jeongsu Han](https://github.com/integerous)님, 2018.12.16    
-[문과생의 데이터 사이언스 도전기](https://brunch.co.kr/@carmenlee/46) - Written by [Carmen](https://brunch.co.kr/@carmenlee#info)님, 2017.12.26    
-[OKKY 미니세미나 <비전공 학원출신 SI개발자, 유명스타트업 들어간.ssul> 참석 후기](https://jojoldu.tistory.com/247) Written by 창천향로님, 2017.11.17    
-[6개월간의 TIL 회고 (꾸준히 하면 좋은 일이 생긴다)](https://wayhome25.github.io/til/2017/08/14/TIL-for-6-months/) Written by 초보몽키님, 2017.08.14
+[체대 출신 개발자의 2018년 회고](https://ryan-han.com/post/memoirs/memoirs2018/) - Written by [Jeongsu Han](https://github.com/integerous)님, 2018.12.16     
+[신입 프론트엔드 개발자가 되려면 무엇을 학습해야 하나요?](https://jbee.io/essay/for_junior_frontend_developer/) Written by [Jbee](https://github.com/JaeYeopHan)님, 2018.02.14   
+[문과생의 데이터 사이언스 도전기](https://brunch.co.kr/@carmenlee/46) - Written by [Carmen](https://brunch.co.kr/@carmenlee#info)님, 2017.12.26     
+[OKKY 미니세미나 <비전공 학원출신 SI개발자, 유명스타트업 들어간.ssul> 참석 후기](https://jojoldu.tistory.com/247) Written by 창천향로님, 2017.11.17     
+[나는 어떻게 개발 공부를 했나, 2편](https://jbee.io/essay/how_do_i_study_2/) Written by [Jbee](https://github.com/JaeYeopHan)님, 2017.10.18  
+[나는 어떻게 개발 공부를 했나, 1편](https://jbee.io/essay/how_do_i_study_1/) Written by [Jbee](https://github.com/JaeYeopHan)님, 2017.09.24  
+[6개월간의 TIL 회고 (꾸준히 하면 좋은 일이 생긴다)](https://wayhome25.github.io/til/2017/08/14/TIL-for-6-months/) Written by [초보몽키](https://github.com/wayhome25)님, 2017.08.14    
+
